@@ -27,7 +27,11 @@ producto1.MostrarInformacion();
 Electronico electronico = new Electronico();
 electronico.Id = 3;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 electronico.Nombre = "iPhone 17 Pro Max";
+=======
+electronico.Nombre = "Iphone 17 Pro max";
+>>>>>>> Stashed changes
 =======
 electronico.Nombre = "Iphone 17 Pro max";
 >>>>>>> Stashed changes
@@ -36,9 +40,15 @@ electronico.Stock = 10;
 electronico.GarantiaMeses = 12;
 electronico.Voltaje = "110V";
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 electronico.MostrarInformacion();
 
 Libro libro = new Libro();
+=======
+
+Libro libro = new Libro();
+
+>>>>>>> Stashed changes
 =======
 
 Libro libro = new Libro();
@@ -49,7 +59,11 @@ libro.Nombre = "El Principito";
 libro.Precio = 250;
 libro.Stock = 1500;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 libro.ISBN = "8536492365322";
+=======
+libro.ISBN = "8214892482412";
+>>>>>>> Stashed changes
 =======
 libro.ISBN = "8214892482412";
 >>>>>>> Stashed changes
